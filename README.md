@@ -2,6 +2,9 @@
 
 一个可上传到 GitHub 仓库并部署到 GitHub Pages 的静态网页项目。
 
+演示地址：https://jeffreylexxx.github.io/ai-model-subscriptions-site/
+
+
 ## 功能
 
 - 展示国际与中国主流 AI 语言模型的月度订阅费用
